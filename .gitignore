@@ -1,0 +1,8 @@
+.theos/
+packages/
+.DS_Store
+
+add.py
+remove.py
+gd120hz.dylib
+gd120hz.plist
