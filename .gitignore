@@ -1,8 +1,7 @@
 .theos/
 packages/
+build/
 .DS_Store
-
-add.py
-remove.py
-gd120hz.dylib
-gd120hz.plist
+*.py
+gd120hz.*
+gd120hz.*
