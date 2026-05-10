@@ -10,3 +10,6 @@ all:
 		-o build/gd120hz.dylib \
 		Tweak.m
 	ldid -S build/gd120hz.dylib
+
+clean:
+	rm -rf Frameworks/ injected_ipa/ ANGLEGLKit.* build/

@@ -1,7 +1,10 @@
 .theos/
 packages/
 build/
+injected_ipa/
+.venv/
 .DS_Store
-*.py
+ANGLEGLKit.*
+remove.py
 gd120hz.*
 gd120hz.*
